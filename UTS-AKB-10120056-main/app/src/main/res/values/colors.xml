@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#917494</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#51ACAF</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- color -->
+    <color name="colorPrimary">#7D5D83</color>
+    <color name="colorsecondary">#6c757d</color>
+    <color name="colorsuccess">#84A5F8</color>
+    <color name="colorwarning">#59A1A3</color>
+    <color name="colorinfo">#17a2b8</color>
+    <color name="colorlight">#f8f9fa</color>
+    <color name="colordark">#343a40</color>
+
+    <color name="background">#F0F4F3</color>
+    <color name="buttontext">#50C2C9</color>
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+
+    <!--text color -->
+    <color name="textColor">#7D5D83</color>
+    <color name="headerColor">#456F95</color>
+
+    <!-- gradient color -->
+    <color name="startColor">#C392C8</color>
+    <color name="endColor">#5FC6BB</color>
+    <color name="centerColor">#618393</color>
+    <color name="userRow">#B56BBFB9</color>
+
+    <!-- icon color -->
+    <color name="iconColor">#44B1B1</color>
+</resources>
